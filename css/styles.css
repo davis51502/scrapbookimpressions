@@ -25,7 +25,7 @@ h3 {
 }
 
 a,a:hover {
-  color: #260ccc;
+  color: #cc760c;
   text-decoration: none;
 }
 
@@ -49,8 +49,8 @@ img {
 
 .fade-carousel .carousel-indicators > li {
   margin: 0 2px;
-  background-color: #f39c12;
-  border-color: #12bff3;
+  background-color: #1d1e1d;
+  border-color: #d32c06;
   opacity: .7;
   border-radius: 0;
   width: 20px;
@@ -116,13 +116,13 @@ img {
 
 .btn.btn-hero, .btn.btn-hero:hover, .btn.btn-hero:focus {
   color: #f5f5f5;
-  background-color: #DB8B0F;
-  border-color: #DB8B0F;
+  background-color: #db270f;
+  border-color: #db270f;
   outline: none;
   padding: 12px 32px;
   margin: 20px auto;
   border-radius: 0px;
-  border-bottom: 4px solid #FF9C00;
+  border-bottom: 4px solid #f6f8f9;
 }
 /********************************/
 /*            Overlay           */
@@ -154,11 +154,11 @@ img {
 }
 
 .fade-carousel .slides .slide-2 {
-  background-image: url('../img/slide2.jpg');
+  background-image: url('../img/MainPhoto.png');
 }
 
 .fade-carousel .slides .slide-3 {
-  background-image: url('../img/slide3.jpg');
+  background-image: url('../img/MainPhoto.png');
 }
 
 
@@ -198,7 +198,7 @@ img {
 }
 
 #quote-carousel .carousel-indicators .active {
-  background: #F39C12;
+  background: #f32812;
 }
 
 #quote-carousel img {
@@ -376,7 +376,7 @@ img {
 
 #main-nav ul.nav>li.active>a {
   color: #fff;
-  background-color: rgb(205, 128, 5);
+  background-color: rgb(230, 18, 7);
 }
 
 .hideClass {
@@ -384,12 +384,12 @@ img {
 }
 
 .isFixed .navbar-inverse .navbar-nav>.active>a,.isFixed .navbar-inverse .navbar-nav>.active>a:focus {
-  background: #cc580c;
+  background: #dd2004;
   color: #fff;
 }
 
 .isFixed .navbar.navbar-inverse.navbar-static-top a:hover {
-  background: #cc580c;
+  background: #dd2004;
   color: #fff;
 }
 
@@ -403,11 +403,11 @@ img {
   -moz-transition: all .5s;
   -webkit-transition: all .5s;
   transition: all .5s;
-  background: #F39C12;
+  background: #dd2004;
 }
 
 .isFixed {
-  background: #F39C12;
+  background: #dd2004;
   -o-transition: all .5s;
   -ms-transition: all .5s;
   -moz-transition: all .5s;
@@ -437,7 +437,7 @@ header {
 .heading h2 {
   font-weight: 700;
   font-size: 35px;
-  color: #F39C12;
+  color: #00050e;
   margin: 0;
   padding: 5px;
   text-transform: capitalize;
@@ -514,7 +514,7 @@ img#site-title {
 .grid figcaption {
   background: #300F00;
   padding: 12px 18px;
-  border-top: #F39C12 solid 1px;
+  border-top: #dd2004 solid 1px;
 }
 /* Slideshow style */
 .slideshow {
@@ -874,7 +874,7 @@ blockquote cite:before {
 }
 
 .feedback {
-  background: url('../img/img3.jpg');
+  background: url('../img/Unknown.jpeg');
 }
 
 .feedback .heading h2 {
