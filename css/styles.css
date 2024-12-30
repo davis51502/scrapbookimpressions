@@ -49,17 +49,17 @@ img {
 
 .fade-carousel .carousel-indicators > li {
   margin: 0 2px;
-  background-color: #1d1e1d;
-  border-color: #d32c06;
-  opacity: .7;
-  border-radius: 0;
-  width: 20px;
-  height: 8px;
+  background-color: #080808;
+  border-color: #080808;
+  opacity: .6;
+  border-radius: 1;
+  width: 30px;
+  height: 10px;
 }
 
 .fade-carousel .carousel-indicators > li.active {
   width: 10px;
-  height: 10px;
+  height: 12px;
   opacity: 1;
 }
 
@@ -71,9 +71,9 @@ img {
   top: 50%;
   left: 50%;
   z-index: 3;
-  color: #fff;
+  color: #151414;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: capitalize;
   text-shadow: 1px 1px 0 rgba(0,0,0,.75);
   -webkit-transform: translate3d(-50%,-50%,0);
   -moz-transform: translate3d(-50%,-50%,0);
@@ -85,14 +85,14 @@ img {
 .hero h1 {
   margin: 0;
   padding: 0;
-  color: #fff;
+  color: hsl(286, 78%, 43%);
   font-size: 50px;
-  font-weight: normal;
+  font-weight: heavy;
 }
 
 .hero h3 {
-  color: #fff;
-  font-weight: 26px;
+  color: rgb(255, 255, 255);
+  font-weight: 28px;
   font-weight: normal;
 }
 
@@ -116,8 +116,8 @@ img {
 
 .btn.btn-hero, .btn.btn-hero:hover, .btn.btn-hero:focus {
   color: #f5f5f5;
-  background-color: #db270f;
-  border-color: #db270f;
+  background-color: #a80fdb;
+  border-color: #c610f4;
   outline: none;
   padding: 12px 32px;
   margin: 20px auto;
